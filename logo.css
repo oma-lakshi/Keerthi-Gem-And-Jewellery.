@@ -1,0 +1,18 @@
+.logo {
+    position: fixed;   /* stays at top-left even on scroll */
+    top: 0;            /* distance from top */
+    left: 0;           /* distance from left */
+    width: 60px;      /* CHANGE size if needed */
+    height: auto;
+}
+
+/* SHOP NAME */
+.shop-name {
+    font-size: 28px;        /* CHANGE size if needed */
+    font-weight: bold;
+    color: #000;            /* black text */
+    font-family: Arial, sans-serif; /* clean, universal font */
+    margin-left: 60px;
+    position: fixed;        /* stays at top-left even on scroll */
+    top: 15px;             /* distance from top */
+}
